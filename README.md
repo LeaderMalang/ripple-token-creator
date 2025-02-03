@@ -22,9 +22,9 @@ pip install xrpl-py
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/leadermalang/KKH-XRPL-Token.git
-cd KKH-XRPL-Token
-python create_xrpl_token.py
+git clone https://github.com/leadermalang/ripple-token-creator.git
+cd ripple-token-creator
+python main.py
 ```
 
 ## 🔍 Viewing KKH Token on XRPL Explorer
