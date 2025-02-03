@@ -1,0 +1,21 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# XRPL config files
+xrp-ledger.toml
