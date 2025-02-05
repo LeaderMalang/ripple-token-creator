@@ -19,7 +19,7 @@ This project enables **XRPL token creation** using an **object-oriented approach
 
 ## **📂 Project Structure**
 ```
-KKH_TOKEN/
+ripple_token_creator/
 │── wallet_helper_xrpl.py      # Wallet management class
 │── xrpl_client.py             # XRPL JSON-RPC client
 │── xrpl_token.py              # Token creation and transaction management
