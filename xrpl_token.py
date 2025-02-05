@@ -11,7 +11,6 @@ from xrpl.models.requests.account_info import AccountInfo
 import time
 import os
 
-
 class XRPLToken:
     def __init__(self, client: JsonRpcClient, cold_wallet, hot_wallet, currency_code: str, domain: str, total_supply: int):
         """Initialize the XRPL Token Issuance."""

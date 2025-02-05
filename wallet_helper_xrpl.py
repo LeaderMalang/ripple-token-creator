@@ -3,7 +3,6 @@ from xrpl.wallet import generate_faucet_wallet
 import json
 import os
 
-
 class WalletHelperXRPL:
     def __init__(self,file_name:str):
             self.file_name=file_name

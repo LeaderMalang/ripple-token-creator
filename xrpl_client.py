@@ -1,7 +1,6 @@
 from xrpl.clients import JsonRpcClient
 import os
 
-
 class XRPLCLIENT:
     def __init__(self, network: str):
         """Initialize the XRPL Client with the given network (testnet/mainnet)"""
