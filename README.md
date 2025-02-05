@@ -33,8 +33,13 @@ ripple_token_creator/
 ### **1️⃣ Install Dependencies**
 Make sure you have **Python 3.7+** installed.
 
-```sh
+
+```bash
+git clone https://github.com/leadermalang/ripple-token-creator.git
+cd ripple-token-creator
 pip install -r requirements.txt
+python main.py
+
 ```
 
 ### **2️⃣ Create an `.env` File**
