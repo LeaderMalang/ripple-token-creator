@@ -19,3 +19,5 @@ logs/
 
 # XRPL config files
 xrp-ledger.toml
+*_wallets.json
+_wallets.json
